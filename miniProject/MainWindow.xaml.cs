@@ -18,7 +18,7 @@ namespace miniProject
     {
         public MainWindow()
         {
-            InitializeComponent();
+            
         }
     }
 }
